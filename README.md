@@ -5,4 +5,4 @@ A fully functioning ray-tracer implemented in C++ that takes .xml scene files as
 
 ## How to run
 
-In the "code" folder, in a shell run: `./raytracer _pathTo_.xml`
+In the "code" folder, in a shell run: `./raytracer <𝑃𝑎𝑡ℎ_𝑇𝑜>.xml`
