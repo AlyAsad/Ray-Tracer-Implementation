@@ -5,9 +5,9 @@ A fully functioning ray-tracer implemented in C++ that takes .xml scene files as
 
 ## How to run
 
-In the "code" folder, in a shell run: `./raytracer <𝑃𝑎𝑡ℎ_𝑇𝑜>.xml`
+In the "code" folder, in a shell run: `./raytracer <𝑖𝑛𝑝𝑢𝑡_𝑓𝑖𝑙𝑒_𝑛𝑎𝑚𝑒>.xml`
 
 
 ## Similar project
 
-I have also implemented a [rasterization pipeline](https://github.com/AlyAsad/Rasterizer) in C++.
+I have also implemented a [forward rendering pipeline](https://github.com/AlyAsad/Rasterizer) in C++.
