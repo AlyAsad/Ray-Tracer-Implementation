@@ -10,4 +10,4 @@ In the "code" folder, in a shell run: `./raytracer <𝑖𝑛𝑝𝑢𝑡_𝑓�
 
 ## Similar project
 
-I have also implemented a [forward rendering pipeline](https://github.com/AlyAsad/Rasterizer) in C++.
+I have also implemented a [forward rendering pipeline](https://github.com/AlyAsad/Forward-Rendering-Pipeline) in C++.
